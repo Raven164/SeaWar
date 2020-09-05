@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeaWar", "SeaWar\SeaWar.csproj", "{A3227F50-B2A0-432F-B994-095C67B9C4D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{952C0D3E-90B4-4337-B585-C6707AEF44A1}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3227F50-B2A0-432F-B994-095C67B9C4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3227F50-B2A0-432F-B994-095C67B9C4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3227F50-B2A0-432F-B994-095C67B9C4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3227F50-B2A0-432F-B994-095C67B9C4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5D4EEB2-0AB0-45E3-8ACF-4A9606E0B662}
+	EndGlobalSection
+EndGlobal
