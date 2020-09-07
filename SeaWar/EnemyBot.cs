@@ -183,7 +183,7 @@ namespace SeaWar
             int posX = rnd.Next(1, Form1.mapSize);
             int posY = rnd.Next(1, Form1.mapSize);
 
-            while (enemyButtons[posX, posY].BackColor == Color.DarkTurquoise || enemyButtons[posX, posY].BackColor == Color.Gray)
+            while (enemyButtons[posX, posY].BackColor == Color.DarkOrchid || enemyButtons[posX, posY].BackColor == Color.Gray)
             {
                  posX = rnd.Next(1, Form1.mapSize);
                  posY = rnd.Next(1, Form1.mapSize);
